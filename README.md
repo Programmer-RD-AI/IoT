@@ -1,5 +1,4 @@
 # IoT
-Param-Tunning
 
 1. Basic Flow of Electrons
 2. What is + -
