@@ -1,5 +1,7 @@
 # IoT
 
+I am still learning IoT. I am going to update this along the way
+
 1. Basic Flow of Electrons
 2. What is + -
 3. Resistors
